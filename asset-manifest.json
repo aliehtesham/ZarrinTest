@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a63bbf6.chunk.css",
+    "main.js": "/static/js/main.19124abb.chunk.js",
+    "main.js.map": "/static/js/main.19124abb.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.2a88c607.chunk.css": "/static/css/2.2a88c607.chunk.css",
+    "static/js/2.b8470421.chunk.js": "/static/js/2.b8470421.chunk.js",
+    "static/js/2.b8470421.chunk.js.map": "/static/js/2.b8470421.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f1a748e8962f7e8572691d458f412fbd.js": "/precache-manifest.f1a748e8962f7e8572691d458f412fbd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2a88c607.chunk.css.map": "/static/css/2.2a88c607.chunk.css.map",
+    "static/css/main.3a63bbf6.chunk.css.map": "/static/css/main.3a63bbf6.chunk.css.map",
+    "static/media/App.css": "/static/media/Sahel-FD.56d610da.ttf",
+    "static/media/Twitter.png": "/static/media/Twitter.ff58301a.png",
+    "static/media/insta.jfif": "/static/media/insta.57c387d5.jfif",
+    "static/media/profile.jpg": "/static/media/profile.8e874c92.jpg",
+    "static/media/telegrشئ.png": "/static/media/telegrشئ.5e494ed0.png",
+    "static/media/w3.jpeg": "/static/media/w3.78bc88cc.jpeg"
+  }
+}
